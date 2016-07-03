@@ -1,5 +1,5 @@
 {
-    "name": "clegginabox/pdf-merger",
+    "name": "arekpietrzyk/pdf-merger",
     "description": "PDF File Merger for PHP5",
     "require": {
         "itbz/fpdi": "1.6.*"
